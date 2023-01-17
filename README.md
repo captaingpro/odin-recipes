@@ -1,0 +1,1 @@
+This current project will apply some of the basic HTML skills learned at this point. This project will not contain any CSS or JS at this point but may be updated at a later point with the aforementioned. This project is going to setup a basic recipe website which will contain a basic index page followed by several recipes.
